@@ -1,3 +1,5 @@
+![logo](https://github.com/MD6966/MD6966/blob/main/Syed%20Mudasser%20anayat.jpg)
+
 <h1 align="center">Hi 👋, I'm Syed Mudasser</h1>
 <h3 align="center">A passionate frontend developer.</h3>
 
